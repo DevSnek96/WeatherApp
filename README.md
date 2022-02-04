@@ -1,4 +1,5 @@
 # WeatherApp
 Creating an awesome weather App
 
-this is a test
+Using OpenWeather API
+https://openweathermap.org/
