@@ -1,5 +1,5 @@
 let weather = {
-
+// API-key from OpenWeather.org - Belongs to Alwin Hauser
     "apiKey": "09611fbf78633f3e3e8eaa0335553de2",
 
     fetchWeather: function (city) {
